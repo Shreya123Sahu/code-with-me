@@ -1,1 +1,1 @@
-# code-with-me:This repository shows my basic coding work-how to take input,display it as output,use of operators,conditional and control statements and all other concepts of a java rogramming language.
+# code-with-me:This repository shows my basic coding work-how to take input,display it as output,use of operators,conditional and control statements and all other concepts of the java programming language.
